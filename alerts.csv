@@ -1,0 +1,45 @@
+date,ip,user,raw
+Aug 2 10:24:33,192.168.1.100,devops,Aug  2 10:24:33 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55341 ssh2
+Aug 2 12:00:00,192.168.1.10,admin,Aug 2 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Aug 2 12:00:00,192.168.1.10,admin,Aug 2 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Aug 2 12:00:00,192.168.1.10,admin,Aug 2 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Aug 2 12:00:00,192.168.1.10,admin,Aug 2 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Aug 2 12:00:00,192.168.1.10,admin,Aug 2 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Aug 2 12:00:00,192.168.1.10,admin,Aug 2 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Aug 2 12:00:00,192.168.1.10,admin,Aug 2 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Aug 2 12:00:00,192.168.1.10,admin,Aug 2 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Aug 2 12:00:00,192.168.1.10,admin,Aug 2 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Aug 2 12:00:00,192.168.1.10,admin,Aug 2 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Aug 2 10:24:33,192.168.1.100,devops,Aug 2 10:24:33 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55341 ssh2
+Aug 2 12:00:00,192.168.1.10,admin,Aug 2 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Aug 2 12:00:00,192.168.1.10,admin,Aug 2 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Aug 2 12:00:00,192.168.1.10,admin,Aug 2 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Aug 2 10:24:30,192.168.1.100,devops,Aug 2 10:24:30 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55339 ssh2
+Aug 2 10:24:32,192.168.1.100,devops,Aug 2 10:24:32 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55340 ssh2
+Aug 2 10:24:33,192.168.1.100,devops,Aug 2 10:24:33 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55341 ssh2
+2025-08-17 22:50:31,192.168.1.50,Failed login attempt from 192.168.1.50
+2025-08-17 22:50:36,192.168.1.50,Failed login attempt from 192.168.1.50
+2025-08-17 22:58:35,192.168.1.50,Failed login attempt from 192.168.1.50
+2025-08-17 22:58:40,192.168.1.50,Failed login attempt from 192.168.1.50
+2025-08-17 23:02:29,192.168.1.10,Aug 17 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+2025-08-17 23:02:35,192.168.1.10,Aug 17 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+2025-08-17 23:02:41,192.168.1.10,Aug 17 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+2025-08-17 23:02:47,192.168.1.100,Aug 17 10:52:30 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55339 ssh2
+2025-08-17 23:02:54,192.168.1.100,Aug 17 10:52:32 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55340 ssh2
+2025-08-17 23:02:59,192.168.1.100,Aug 17 10:52:33 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55341 ssh2
+2025-08-17 23:08:55,192.168.1.10,Aug 17 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+2025-08-17 23:09:00,192.168.1.10,Aug 17 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+2025-08-17 23:09:05,192.168.1.100,Aug 17 10:52:30 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55339 ssh2
+2025-08-17 23:09:11,192.168.1.100,Aug 17 10:52:32 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55340 ssh2
+2025-08-17 23:21:31,192.168.1.10,Aug 17 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+2025-08-17 23:21:37,192.168.1.10,Aug 17 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+2025-08-17 23:21:43,192.168.1.100,Aug 17 10:52:30 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55339 ssh2
+2025-08-17 23:21:49,192.168.1.100,Aug 17 10:52:32 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55340 ssh2
+2025-08-17 23:21:55,192.168.1.80,Aug 17 10:52:16 pc sshd[3522]: Failed password for user1 from 192.168.1.80 port 55331 ssh2
+2025-08-17 23:22:48,192.168.1.80,Aug 17 10:54:46 pc sshd[3522]: Failed password for user1 from 192.168.1.80 port 55331 ssh2
+2025-08-17 23:26:12,192.168.1.10,Aug 17 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+2025-08-17 23:26:18,192.168.1.10,Aug 17 12:00:00 server sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+2025-08-17 23:26:24,192.168.1.100,Aug 17 10:52:30 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55339 ssh2
+2025-08-17 23:26:29,192.168.1.100,Aug 17 10:52:32 pc sshd[3522]: Failed password for invalid user devops from 192.168.1.100 port 55340 ssh2
+2025-08-17 23:26:34,192.168.1.80,Aug 17 10:52:16 pc sshd[3522]: Failed password for user1 from 192.168.1.80 port 55331 ssh2
+2025-08-17 23:26:39,192.168.1.80,Aug 17 10:54:46 pc sshd[3522]: Failed password for user1 from 192.168.1.80 port 55331 ssh2
