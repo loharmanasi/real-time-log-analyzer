@@ -12,18 +12,21 @@ It also logs the suspicious activity in a CSV file for auditing.
 # Setup Instructions
 1. Install dependencies:
 
-pip install watchdog
+- pip install watchdog
 
 2. Update the script with your email details:
 
-SENDER_EMAIL = "your-email@gmail.com"
-SENDER_PASSWORD = "your-app-password"   # Use Gmail App Password
-RECEIVER_EMAIL = "your-email@gmail.com"
+  SENDER_EMAIL = "your-email@gmail.com"
+  SENDER_PASSWORD = "your-app-password"   # Use Gmail App Password
+  RECEIVER_EMAIL = "your-email@gmail.com"
 
 3. Run the analyzer:
 
-python realtime_analyzer.py
+  python realtime_analyzer.py
 
 # 🔍 Terminal Output
 <img width="731" height="322" alt="terminal op" src="https://github.com/user-attachments/assets/25b8040d-149d-4c4a-89ae-66d87cd24535" />
+
+# 📧 Email Alert Example
+<img width="847" height="257" alt="image" src="https://github.com/user-attachments/assets/466f8fc5-7c31-4101-ab3a-ee38701e180f" />
 
