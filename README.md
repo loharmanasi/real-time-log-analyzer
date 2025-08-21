@@ -25,7 +25,7 @@ It also logs the suspicious activity in a CSV file for auditing.
   python realtime_analyzer.py
 
 # 🔍 Terminal Output
-<img width="731" height="322" alt="Untitled design" src="https://github.com/user-attachments/assets/ff2d3292-7e6e-414b-aa5b-2e7ea7590940" />
+![terminal op](https://github.com/user-attachments/assets/37359039-efa1-4f5e-b128-35d1d68b217b)
 
 # 📧 Email Alert Example
 <img width="847" height="257" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/6a10596b-1c7e-4d8c-a3a5-fb8faeca7c5d" />
